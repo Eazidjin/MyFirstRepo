@@ -1,0 +1,1 @@
+so far in this course, I have  learned how to use Git and GitHub for version control, including cloning repositories, creating branches, committing changes, and collaborating through pull requests. These tools are essential for modern software development and teamwork.
