@@ -1,1 +1,6 @@
+Brief Introduction About Myself
+
+My name is Mahoro Israel, a passionate and curious learner currently pursuing studies in Data Science through the ALX program. I reside in Kimihurura, Rwanda, and I am committed to using technology and data to create impactful solutions, especially in areas like healthcare and education. My academic background includes completing A-level studies at College Saint Jean Nyarusange, and I am fluent in English, Kinyarwanda, and Kiswahili.
+
+In addition to my academic pursuits, I enjoy reading books, playing volleyball and football, and engaging in leadership activities. I have a strong interest in research and problem-solving, and I am driven by a personal mission to improve access to healthcare services in underserved communities. I believe that through collaboration, empathy, and continuous learning, I can contribute to meaningful change in my society.
 
